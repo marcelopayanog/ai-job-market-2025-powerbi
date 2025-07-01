@@ -60,8 +60,8 @@ Diseñar un tablero analítico que permita visualizar, de forma clara y dinámic
 | `dashboard-ai-job-market-2025.pbix` | Archivo principal del dashboard en Power BI |
 | `dashboard-ai-job-market-2025-v2.pbix` | Archivo final del dashboard en Power BI |
 | `ai_job_market_2025.csv` | Dataset base utilizado para el análisis |
-| `Dashboard Principal.png` | Captura del primer dashboard |
-| `Dashboard Final.png` | Captura del dashboard completo |
+| `DashboardPrincipal.png` | Captura del primer dashboard |
+| `DashboardFinal.png` | Captura del dashboard completo |
 | `kpis.png` | Captura del dashboard completo |
 
 ---
